@@ -1,19 +1,11 @@
-<!--
-**deyvidsalvatore/deyvidsalvatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Olá, sou Deyvid Santos 👋
-
+<h1 align="center"> Hello, I'm Deyvid Santos! <img src="https://raw.githubusercontent.com/gist/GeekTree0101/05d338bb59109fc71871711c6fa49377/raw/3ff868ffcf2f84d419c392667335fe7e9f1bf155/dancing-gopher.gif" width="70"> </h1>
+- 🌱 I’m currently learning DevOps
+<br>
+- 😄 Pronouns: He/Him
+<br>
+- ⚡ Fun fact:
+<br>
+<br>
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=deyvidsalvatore&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -33,7 +25,7 @@ Here are some ideas to get you started:
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="golang-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Contact</h1>
     <a href = "mailto: deyvidsantos.salvatore@gmail.com">
       <img width="30" src="https://img.icons8.com/color/48/000000/gmail--v1.png">
     </a>
