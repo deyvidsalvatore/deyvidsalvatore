@@ -24,12 +24,13 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="30" width="40" alt="golang-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+    <img align="center" height="30" width="40" alt="golang-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
   <h1 align="center">Contact</h1>
     <a href = "mailto: deyvidsantos.salvatore@gmail.com">
       <img width="30" src="https://img.icons8.com/color/48/000000/gmail--v1.png">
     </a>
-    <a href = "https://www.instagram.com/deyvidsalvatore/">
+    <a href = "https://www.instagram.com/deyvid.salvatore/">
       <img width="25" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png">
     </a>
 </div>
