@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/32L0IC6.png" width=85% height=85%/>
+<img src="https://i.imgur.com/32L0IC6.png" />
 </p>
   <img align=right src="https://64.media.tumblr.com/893b975fa03de3865c33fb9a3e4851ff/2894fe3177fefbf4-7b/s540x810/f374ffcd2f84b682a2c9dc572343c19d7f09b422.gifv" alt="Git image" width="300">
 - 🔭 I’m currently working on **KomodoLearn** 
