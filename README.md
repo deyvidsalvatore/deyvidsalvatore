@@ -9,7 +9,7 @@
 - 💬 Ask me about **Java, Spring, DevOps, and computer networks**
 - 📫 How to reach me: **deyvidsantosdasilva2002@gmail.com**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/deyvidsantosdevops/)
-- ⚡ Fun fact: **The nickname Salvatore comes from the character Damon Salvatore in the series Diaries of a Vampire**
+- ⚡ Fun fact: **The nickname Salvatore comes from the character Damon Salvatore from The Vampire Diaries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
