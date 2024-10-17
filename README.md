@@ -1,3 +1,4 @@
+<!--
 <p align="center">
 <img src="https://i.imgur.com/32L0IC6.png" />
 </p>
@@ -29,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deyvidsalvatore&show_icons=true&locale=en" alt="deyvidsalvatore" /></p>
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg) -->
