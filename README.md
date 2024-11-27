@@ -3,7 +3,7 @@
 </p>
   <img align=right src="https://64.media.tumblr.com/893b975fa03de3865c33fb9a3e4851ff/2894fe3177fefbf4-7b/s540x810/f374ffcd2f84b682a2c9dc572343c19d7f09b422.gifv" alt="Git image" width="300">
   
-- 🔭 I’m currently working on **Compass.UOL** 
+- 🔭 I’m currently working on **Dev Adventures** 
 - 🌱 I’m currently learning **Micro-Frontends, Hexagonal, DDD, and Event-Driven Development**
 - 📝 I will write articles on [Medium](https://medium.com/@deyvidsantos.salvatore) 
 - 💬 Ask me about **Angular, Java, Spring, DevOps, and computer networks**
